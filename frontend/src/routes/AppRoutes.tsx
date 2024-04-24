@@ -1,9 +1,9 @@
-import React from 'react';
-import { Routes, Route } from 'react-router-dom';
-import LoginForm from '../components/LoginForm';
-import UserProfile from '../components/UserProfile';
-import UserForm from '../components/UserForm';
-import RegisterPage from '../pages/RegisterPage';
+import React from "react";
+import { Routes, Route } from "react-router-dom";
+import LoginForm from "../components/LoginForm";
+import UserProfile from "../components/UserProfile";
+import UserForm from "../components/UserForm";
+import RegisterPage from "../pages/RegisterPage";
 
 const AppRoutes: React.FC = () => {
   return (
