@@ -12,7 +12,7 @@ router.post("/login", loginController);
 router.get("/me", userDataController.getUser);
 
 // Rutes per operacions CRUD d'usuaris
-router.post("/users", userDataController.createUser.bind(userDataController));
+router.post("/users/register", userDataController.createUser.bind(userDataController));
 router.get("/users", userDataController.getUser);
 router.get("/users/:nickname", userDataController.getAllUsers);
 router.put("/users/:nickname", userDataController.updateUser);

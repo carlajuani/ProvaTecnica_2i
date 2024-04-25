@@ -47,6 +47,7 @@ function RegisterPage() {
       <h2>Register User</h2>
       <form onSubmit={(e) => {
         e.preventDefault();
+        console.log("abans del RegisterPage");
         handleRegistration();
       }}>
         <label htmlFor="nickname">Nickname:</label>
