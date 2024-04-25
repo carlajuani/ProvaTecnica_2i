@@ -78,13 +78,10 @@ Esto abrirá automáticamente la aplicación en su navegador predeterminado.
 Las contraseñas de los usuarios se almacenan de forma segura utilizando encriptación bcrypt. Todos los datos son gestionados siguiendo las mejores prácticas para asegurar la protección de la información de los usuarios.
 
 ## Contribuciones
-Las contribuciones son bienvenidas. Por favor, envíe un pull request o cree un issue para cualquier característica o mejora que desee proponer.
-
-## Licencia
-Este proyecto está licenciado bajo [INSERTE EL TIPO DE LICENCIA], lo que significa que puede utilizarlo y modificarlo según los términos de dicha licencia.
+kevinmamaqi
 
 ## Contacto
-Para preguntas o colaboraciones, no dude en contactar al equipo de desarrollo a través de `pptest11@gmail.com`.
+Para preguntas o colaboraciones, no dude en contactar al equipo de desarrollo a través de `carla90_@hotmail.es`.
 
 ---
 
